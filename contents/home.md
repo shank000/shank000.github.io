@@ -5,7 +5,7 @@
 He is currently studying for a doctor's degree in computer science and technology at the School of Advanced Interdisciplinary Studies, University of the Chinese Academy of Sciences.
 
 #### Email
-307916173qq.com/wangzeyu231@mails.ucas.ac.cn
+307916173@qq.com/wangzeyu231@mails.ucas.ac.cn
 
 #### Education
 Computer Science and Technology/Integrated Master's and Doctoral Program, University of Chinese Academy of Sciences, 2023—2028 (expected).\
