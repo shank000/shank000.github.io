@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![shank000](https://img.shields.io/badge/shank000-github-blue?logo=github)](https://github.com/shank000)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently studying for a doctor's degree in computer science and technology at the School of Advanced Interdisciplinary Studies, University of the Chinese Academy of Sciences.
 
 #### Email
-sli[at]cumt.edu.cn
+307916173qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Computer Science and Technology/Integrated Master's and Doctoral Program, University of Chinese Academy of Sciences, 2023—2026 (expected).\
+Mechanical Design, Manufacturing and Automation/Bachelor's degree, Taiyuan University of Technology, 2018—2022.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep learning, computer vision, intelligent processing of remote sensing information, and intelligent processing of drone aerial images.
 

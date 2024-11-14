@@ -1,9 +1,7 @@
-- First-prize Academic Scholarship, 2023.
+- Academic Excellence Scholarship, 2019-2020.
 
-- Freshman Academic Scholarship, 2022.
+- Received the honorary title of "Academic Excellence Individual", 2022.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Excellent Award in the Provincial Round of the National College Student Mathematical Modeling Competition, 2021.
 
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- Third Prize in the 13th National College Mathematics Competition, 2020.
