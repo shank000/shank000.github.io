@@ -8,7 +8,7 @@ He is currently studying for a doctor's degree in computer science and technolog
 307916173qq.com/wangzeyu231@mails.ucas.ac.cn
 
 #### Education
-Computer Science and Technology/Integrated Master's and Doctoral Program, University of Chinese Academy of Sciences, 2023—2026 (expected).\
+Computer Science and Technology/Integrated Master's and Doctoral Program, University of Chinese Academy of Sciences, 2023—2028 (expected).\
 Mechanical Design, Manufacturing and Automation/Bachelor's degree, Taiyuan University of Technology, 2018—2022.
 
 #### Research Interests
