@@ -12,5 +12,5 @@ Computer Science and Technology/Integrated Master's and Doctoral Program, Univer
 Mechanical Design, Manufacturing and Automation/Bachelor's degree, Taiyuan University of Technology, 2018—2022.
 
 #### Research Interests
-Deep learning, computer vision, intelligent processing of remote sensing information, and intelligent processing of drone aerial images.
+Deep learning, computer vision, intelligent processing of remote sensing information, and intelligent processing of drone aerial images, AI4Science, scene perception and understanding.
 
